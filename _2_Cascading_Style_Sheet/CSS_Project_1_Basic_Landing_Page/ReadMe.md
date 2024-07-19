@@ -1,5 +1,5 @@
-# This is My first webpage is now Hosted
+# This is My first webpage Hero Section
 
 ### See here:
 
-![Preview](https://github.com/tapabrata12/Frontend_Development/blob/main/2_Cascading_Style_Sheet/CSS_Project_1_Basic_Landing_Page/PREv/WEBSITE.png?raw=true)
+![Screenshot 2024-07-17 085658](https://github.com/user-attachments/assets/3c1945ef-f028-4ebe-bac6-c9976e46e56b)
