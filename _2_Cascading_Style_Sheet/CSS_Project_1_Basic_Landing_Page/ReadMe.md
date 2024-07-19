@@ -2,4 +2,4 @@
 
 ### See here:
 
-![Preview](_2_Cascading_Style_Sheet/CSS_Project_1_Basic_Landing_Page/PREv/WEBSITE.png)
+![Preview](https://github.com/tapabrata12/Frontend_Development/blob/main/WEBSITE.png?raw=true)
